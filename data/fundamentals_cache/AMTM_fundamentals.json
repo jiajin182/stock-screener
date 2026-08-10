@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AMTM",
-    "fetch_date": "2026-07-31T17:16:31.412167",
+    "fetch_date": "2026-08-10T15:35:55.200811",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 3491000000.0,
       "2025-06-30 00:00:00": 3561000000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 3.65,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-31T17:16:31.413112"
+  "fetched_at": "2026-08-10T15:35:55.201974"
 }

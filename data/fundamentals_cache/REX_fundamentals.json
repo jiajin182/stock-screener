@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "REX",
-    "fetch_date": "2026-07-31T18:00:40.048375",
+    "fetch_date": "2026-08-10T16:20:10.526822",
     "quarterly_revenue": {
       "2025-04-30 00:00:00": 158340000.0,
       "2025-07-31 00:00:00": 158563000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.17,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-31T18:00:40.049598"
+  "fetched_at": "2026-08-10T16:20:10.529161"
 }

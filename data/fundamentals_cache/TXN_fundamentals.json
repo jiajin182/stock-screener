@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TXN",
-    "fetch_date": "2026-07-31T18:10:19.384101",
+    "fetch_date": "2026-08-10T16:29:48.665199",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 4448000000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.843,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-31T18:10:19.385272"
+  "fetched_at": "2026-08-10T16:29:48.666729"
 }

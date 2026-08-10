@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ORN",
-    "fetch_date": "2026-07-31T17:55:22.875302",
+    "fetch_date": "2026-08-10T16:14:50.144677",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.011,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-31T17:55:22.876491"
+  "fetched_at": "2026-08-10T16:14:50.146217"
 }
