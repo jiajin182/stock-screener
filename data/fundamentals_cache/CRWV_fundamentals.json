@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CRWV",
-    "fetch_date": "2026-08-04T18:29:43.786179",
+    "fetch_date": "2026-08-12T15:45:36.452248",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 982000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -6.93,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T18:29:43.787598"
+  "fetched_at": "2026-08-12T15:45:36.453611"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PTC",
-    "fetch_date": "2026-08-04T19:00:55.904948",
+    "fetch_date": "2026-08-12T16:16:48.580349",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": 27.75,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T19:00:55.906421"
+  "fetched_at": "2026-08-12T16:16:48.581699"
 }
