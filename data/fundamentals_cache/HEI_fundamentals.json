@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HEI",
-    "fetch_date": "2026-08-05T17:40:04.287170",
+    "fetch_date": "2026-08-13T15:58:59.931800",
     "quarterly_revenue": {
       "2025-04-30 00:00:00": 1097820000.0,
       "2025-07-31 00:00:00": 1147591000.0,
@@ -34,5 +34,5 @@
     "inventory_to_sales_ratio": 1.025,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T17:40:04.288955"
+  "fetched_at": "2026-08-13T15:58:59.933525"
 }

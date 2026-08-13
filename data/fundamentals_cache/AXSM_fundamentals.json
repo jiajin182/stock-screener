@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AXSM",
-    "fetch_date": "2026-08-05T17:19:51.683480",
+    "fetch_date": "2026-08-13T15:38:44.153560",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 121463000.0,
       "2025-06-30 00:00:00": 150042000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.165,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T17:19:51.685291"
+  "fetched_at": "2026-08-13T15:38:44.155274"
 }

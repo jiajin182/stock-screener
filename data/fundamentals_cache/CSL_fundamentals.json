@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CSL",
-    "fetch_date": "2026-08-05T17:28:27.172072",
+    "fetch_date": "2026-08-13T15:47:22.607972",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.314,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T17:28:27.173894"
+  "fetched_at": "2026-08-13T15:47:22.609792"
 }

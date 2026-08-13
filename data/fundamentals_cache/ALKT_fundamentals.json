@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ALKT",
-    "fetch_date": "2026-08-05T17:16:18.863310",
+    "fetch_date": "2026-08-13T15:35:11.093639",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": -5.93,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T17:16:18.864693"
+  "fetched_at": "2026-08-13T15:35:11.095005"
 }

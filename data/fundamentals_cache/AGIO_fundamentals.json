@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AGIO",
-    "fetch_date": "2026-08-05T17:15:21.152608",
+    "fetch_date": "2026-08-13T15:34:14.171623",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.674,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T17:15:21.154489"
+  "fetched_at": "2026-08-13T15:34:14.173444"
 }
