@@ -5782,5 +5782,37 @@
   "VERX": {
     "last_updated": "2026-08-14T16:07:04.628463",
     "in_earnings_season": true
+  },
+  "GTN": {
+    "last_updated": "2026-08-17T14:22:47.167681",
+    "in_earnings_season": false
+  },
+  "MPLT": {
+    "last_updated": "2026-08-17T14:34:11.033631",
+    "in_earnings_season": false
+  },
+  "ONCH": {
+    "last_updated": "2026-08-17T14:38:58.167409",
+    "in_earnings_season": false
+  },
+  "PKOH": {
+    "last_updated": "2026-08-17T14:41:40.244702",
+    "in_earnings_season": false
+  },
+  "Q": {
+    "last_updated": "2026-08-17T14:43:33.128512",
+    "in_earnings_season": false
+  },
+  "RM": {
+    "last_updated": "2026-08-17T14:45:35.284134",
+    "in_earnings_season": false
+  },
+  "RRGB": {
+    "last_updated": "2026-08-17T14:46:07.400706",
+    "in_earnings_season": false
+  },
+  "TLSI": {
+    "last_updated": "2026-08-17T14:52:56.419070",
+    "in_earnings_season": false
   }
 }
