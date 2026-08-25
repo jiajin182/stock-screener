@@ -5866,5 +5866,21 @@
   "XZO": {
     "last_updated": "2026-08-24T15:28:42.812676",
     "in_earnings_season": false
+  },
+  "BETA": {
+    "last_updated": "2026-08-25T12:57:12.859017",
+    "in_earnings_season": false
+  },
+  "PMI": {
+    "last_updated": "2026-08-25T13:34:36.291535",
+    "in_earnings_season": false
+  },
+  "SATA": {
+    "last_updated": "2026-08-25T13:39:31.104401",
+    "in_earnings_season": false
+  },
+  "SUNC": {
+    "last_updated": "2026-08-25T13:43:50.350184",
+    "in_earnings_season": false
   }
 }
