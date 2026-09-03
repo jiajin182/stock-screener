@@ -5926,5 +5926,29 @@
   "OABI": {
     "last_updated": "2026-09-02T16:49:23.800913",
     "in_earnings_season": false
+  },
+  "BWMN": {
+    "last_updated": "2026-09-03T16:07:55.671045",
+    "in_earnings_season": false
+  },
+  "CCI": {
+    "last_updated": "2026-09-03T16:09:08.799006",
+    "in_earnings_season": false
+  },
+  "HBB": {
+    "last_updated": "2026-09-03T16:24:02.034450",
+    "in_earnings_season": false
+  },
+  "JFB": {
+    "last_updated": "2026-09-03T16:28:31.898439",
+    "in_earnings_season": false
+  },
+  "PNRG": {
+    "last_updated": "2026-09-03T16:42:46.140038",
+    "in_earnings_season": false
+  },
+  "TVA": {
+    "last_updated": "2026-09-03T16:54:57.164360",
+    "in_earnings_season": false
   }
 }
