@@ -5974,5 +5974,25 @@
   "IRD": {
     "last_updated": "2026-09-09T16:35:30.757698",
     "in_earnings_season": false
+  },
+  "ANGX": {
+    "last_updated": "2026-09-10T16:03:10.211789",
+    "in_earnings_season": false
+  },
+  "ARCT": {
+    "last_updated": "2026-09-10T16:03:51.163328",
+    "in_earnings_season": false
+  },
+  "CBC": {
+    "last_updated": "2026-09-10T16:10:09.287744",
+    "in_earnings_season": false
+  },
+  "JILL": {
+    "last_updated": "2026-09-10T16:29:55.419212",
+    "in_earnings_season": false
+  },
+  "STAA": {
+    "last_updated": "2026-09-10T16:52:38.522507",
+    "in_earnings_season": false
   }
 }
