@@ -6022,5 +6022,17 @@
   "GEMI": {
     "last_updated": "2026-09-18T16:23:53.536885",
     "in_earnings_season": false
+  },
+  "ORIC": {
+    "last_updated": "2026-09-21T18:40:37.075761",
+    "in_earnings_season": false
+  },
+  "RMBI": {
+    "last_updated": "2026-09-21T18:46:41.198464",
+    "in_earnings_season": false
+  },
+  "VHC": {
+    "last_updated": "2026-09-21T18:57:27.248285",
+    "in_earnings_season": false
   }
 }
